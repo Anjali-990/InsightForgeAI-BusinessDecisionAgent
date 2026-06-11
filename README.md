@@ -1,6 +1,28 @@
-# 🧠 InsightForge AI
+#  InsightForge AI: Business Decision Intelligence Agent
 
-Business Decision Intelligence Agent
+Transforms raw business data into actionable decisions through anomaly detection, root-cause reasoning, business recommendations, and what-if simulation powered by Fabric IQ concepts.
+
+## Why InsightForge AI?
+
+Business leaders often rely on dashboards that explain what happened, but not why it happened or what action should be taken next.
+
+InsightForge AI acts as a Business Decision Intelligence Agent that:
+- Detects anomalies in business performance
+- Identifies likely root causes
+- Recommends corrective actions
+- Simulates future business scenarios
+
+The result is faster, more informed decision-making.
+
+## Microsoft Agents League Track
+
+🧠 Reasoning Agents
+
+### Microsoft IQ Used
+
+📊 Fabric IQ
+
+InsightForge AI reasons across business entities such as Sales, Inventory, Customers, and Regions to uncover relationships, assess business risk, and generate recommendations.
 
 ## Problem
 
@@ -84,6 +106,8 @@ What-If Simulation
 - Python
 - Streamlit
 - Pandas
+- NumPy
+- Business Rules Engine
 - Microsoft Fabric IQ Concepts
 
 ---
