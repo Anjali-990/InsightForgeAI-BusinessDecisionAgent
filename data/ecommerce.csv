@@ -1,0 +1,7 @@
+OrderID,Product,Category,Price,Quantity
+1001,Laptop,Electronics,70000,2
+1002,Mouse,Accessories,800,5
+1003,Keyboard,Accessories,1500,3
+1004,Monitor,Electronics,18000,2
+1005,Chair,Furniture,7000,4
+1006,Desk,Furniture,12000,2

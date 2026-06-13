@@ -1,0 +1,7 @@
+Patient,Doctor,Disease,AdmissionDays,BillAmount
+John,Dr. Smith,Fever,2,5000
+Emma,Dr. Brown,Diabetes,5,25000
+David,Dr. Lee,Fracture,7,40000
+Sophia,Dr. Brown,Asthma,3,12000
+Michael,Dr. Smith,Flu,2,4500
+Olivia,Dr. Lee,Surgery,10,95000
